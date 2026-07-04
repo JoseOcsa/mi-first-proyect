@@ -14,3 +14,4 @@ git checkout --> volver a tiempo
 git checkout main -- > volver al historial de cambios
 git config --global core.pager cat --> eliminar el paginador 
 git commit -am --> "Sin necesidad de usar el add antes del commit"
+git -m ---> nombrar el cambio de version 
