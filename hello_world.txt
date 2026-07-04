@@ -3,3 +3,10 @@ cd --> sirve para cambiar de directorio
 cd .. --> vuelve atras 
 mkdir --> crear un folder 
 rm - rf ==> para borrar 
+
+
+
+git 
+git status--- si el archivo ha sido modificiado
+git add  --- para agregar al staying el archivo 
+git commit -- para actualizar el archivo 
