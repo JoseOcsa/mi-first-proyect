@@ -10,3 +10,5 @@ git
 git status--- si el archivo ha sido modificiado
 git add  --- para agregar al staying el archivo 
 git commit -- para actualizar el archivo con el texto 
+git checkout --> volver a tiempo
+
