@@ -11,4 +11,6 @@ git status--- si el archivo ha sido modificiado
 git add  --- para agregar al staying el archivo 
 git commit -- para actualizar el archivo con el texto 
 git checkout --> volver a tiempo
-
+git checkout main -- > volver al historial de cambios
+git config --global core.pager cat --> eliminar el paginador 
+git commit -am --> "Sin necesidad de usar el add antes del commit"
