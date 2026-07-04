@@ -1,0 +1,5 @@
+ls --> list,listar archivos o carpetas del directorio
+cd --> sirve para cambiar de directorio 
+cd .. --> vuelve atras 
+mkdir --> crear un folder 
+rm - rf ==> para borrar 
