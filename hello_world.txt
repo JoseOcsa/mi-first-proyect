@@ -15,3 +15,10 @@ git checkout main -- > volver al historial de cambios
 git config --global core.pager cat --> eliminar el paginador 
 git commit -am --> "Sin necesidad de usar el add antes del commit"
 git -m ---> nombrar el cambio de version 
+
+
+Elimnar archivo de pc y github
+git status "deleted archive"
+git rm  archivo 
+git commit "Eliminar archivo"
+git push 
