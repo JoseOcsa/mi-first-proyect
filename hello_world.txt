@@ -22,3 +22,9 @@ git status "deleted archive"
 git rm  archivo 
 git commit "Eliminar archivo"
 git push 
+
+
+Añadi un pipeline para la extraccion de datos
+""
+fuNCION QUE EXTRA MIS datos
+"
